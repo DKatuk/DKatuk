@@ -8,17 +8,20 @@ I am highly interested in e-commerce sector and digital marketing. I love to cha
 Switching careers was not an easy thing for me. But with the effort, motivation and time, I believe learning anything is possible 🚀 
 
 
-- 🌱 I’m currently learning: </br>
+- 🌱 **I’m currently learning**: </br>
 <a href="https://graphql.org/" target="_blank">GraphQL</a></br>
 <a href="https://www.apollographql.com/" target="_blank">Apollo</a></br>
 <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></br>
 
-- 📫 Connect with me: 
+- 📫 **Connect with me**: 
 <div align:"center">
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilarakatuk@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilara-katuk/)
 </div>
+
+- ⚡ **Fun fact about me**:  </br>
+I did an internship in a laboratory where Corona Virus studies were held ( It was in 2018, before the pandemic has started! :')) 👩‍🔬🧬😷
 
 ### My Skillset 
 <div>
