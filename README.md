@@ -1,7 +1,7 @@
 ### Hi there, It's Dilara 👋
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=DKatuk)
 
-I am an alumna of an intensive, hands-on Front End Bootcamp provided by <a href="https://www.re-coded.com/" target="_blank">Re:Coded</a>. 👩‍💻 
+I am an alumna of an intensive, hands-on Front End Bootcamp provided by <a href="https://www.re-coded.com/" target="_blank">Re:Coded</a>, curriculum from <a href="https://flatironschool.com/">Flatiron School</a>. 👩‍💻 
 
 I am highly interested in e-commerce sector and digital marketing. I love to challenge myself, and learn new things. I studied Molecular Biology and Genetics, BSc 👩‍⚕️ While I was doing my MSc in Biotechnology, I took entrepreneurship courses that ignited my passion in digital marketing. 📈 I firmly believe that we need to adjust ourselves according to the world’s growing markets & needs. 🌞 I realized that a brand’s website is the face it shows to the world. That’s why I wanted to become a Front-End Developer. 💻 
 
