@@ -21,7 +21,7 @@ Switching careers was not an easy thing for me. But with the effort, motivation 
 </div>
 
 - ⚡ **Fun fact about me**:  </br>
-I did an internship in a laboratory where Corona Virus studies were held ( It was in 2018, before the pandemic has started! :')) 👩‍🔬🧬😷
+I did an internship in a laboratory (in Krakow, Poland) where Corona Virus studies were held ( It was in 2018, before the pandemic has started! :')) 👩‍🔬🧬😷
 
 ### My Skillset 
 <div>
