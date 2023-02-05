@@ -12,6 +12,7 @@ Switching careers was not an easy thing for me. But with the effort, motivation 
 <a href="https://graphql.org/" target="_blank">GraphQL</a></br>
 <a href="https://www.apollographql.com/" target="_blank">Apollo</a></br>
 <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></br>
+<a href="https://www.mongodb.com/" target="_blank">MongoDB</a></br>
 
 - 📫 **Connect with me**: 
 <div align:"center">
