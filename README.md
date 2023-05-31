@@ -1,30 +1,21 @@
 ### Hi there, It's Dilara 👋
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=DKatuk)
 
-I am an alumna of an intensive, hands-on Front End Bootcamp provided by <a href="https://www.re-coded.com/" target="_blank">Re:Coded</a>, curriculum from <a href="https://flatironschool.com/">Flatiron School</a>. 👩‍💻 
+Passionate Front-End Developer with expertise in web development, Search Engine Optimization (SEO), and implementing top-tier security practices. Experienced in collaborating with cross-functional teams to deliver high-quality results. Skilled in HTML, CSS, JavaScript, React, and Next.js.
 
-I am highly interested in e-commerce sector and digital marketing. I love to challenge myself, and learn new things. I studied Molecular Biology and Genetics, BSc 👩‍⚕️ While I was doing my MSc in Biotechnology, I took entrepreneurship courses that ignited my passion in digital marketing. 📈 I firmly believe that we need to adjust ourselves according to the world’s growing markets & needs. 🌞 I realized that a brand’s website is the face it shows to the world. That’s why I wanted to become a Front-End Developer. 💻 
+# About Me
+I am a detail-oriented and solution-driven team player who embarked on a transformative journey by completing an intensive remote Front End Bootcamp. 2 years ago, I discovered my passion for digital world and coding and realized the importance of a brand's website as its face to the world. This led me to pursue a career as a Front-End Developer, where I combine my technical skills with my creative mindset.
 
-Switching careers was not an easy thing for me. But with the effort, motivation and time, I believe learning anything is possible 🚀 
+# Skills
+- Languages: HTML, CSS, JavaScript
+- Frameworks/Libraries: React, Next.js
+- Version Control: Git, GitHub, Bitbucket
+- Agile Scrum: Jira
+- UI Design: Figma
+- SEO Optimization: On Page SEO, Google Analytics, Google Search Console, Sitemap Creation and Integration
+- Security: HTTP-only Cookies, AES encryption
 
-
-- 🌱 **I’m currently learning**: </br>
-<a href="https://graphql.org/" target="_blank">GraphQL</a></br>
-<a href="https://www.apollographql.com/" target="_blank">Apollo</a></br>
-<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></br>
-<a href="https://www.mongodb.com/" target="_blank">MongoDB</a></br>
-
-- 📫 **Connect with me**: 
-<div align:"center">
-
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilarakatuk@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilara-katuk/)
-</div>
-
-- ⚡ **Fun fact about me**:  </br>
-I did an internship in a laboratory (in Krakow, Poland) where Corona Virus studies were held ( It was in 2018, before the pandemic has started! :')) 👩‍🔬🧬😷
-
-### My Skillset 
+### Skillset 
 <div>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -40,6 +31,9 @@ I did an internship in a laboratory (in Krakow, Poland) where Corona Virus studi
   </a> 
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+   <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -63,6 +57,21 @@ I did an internship in a laboratory (in Krakow, Poland) where Corona Virus studi
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
 </div>
+
+## 🌱 **I’m currently learning**: </br>
+- HarvardX - CS50's Introduction to Computer Science - Online (Scholarship recipient)
+- LinuxFoundationX - Introduction to Linux - Online (Scholarship recipient)
+- Docker and Kubernetes: The Complete Guide - Online
+
+## 📫 **Connect with me**: 
+<div align:"center">
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilarakatuk@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilara-katuk/)
+</div>
+
+## ⚡ **Fun fact about me**:  </br>
+I did an internship in a laboratory (in Krakow, Poland) where Corona Virus studies were held ( It was in 2018, before the pandemic has started! :')) 👩‍🔬🧬😷
 
 ### My Stats
 <a href="#">
