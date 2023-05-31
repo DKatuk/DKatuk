@@ -1,6 +1,7 @@
 ### Hi there, It's Dilara 👋
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=DKatuk)
 
+# Summary
 Passionate Front-End Developer with expertise in web development, Search Engine Optimization (SEO), and implementing top-tier security practices. Experienced in collaborating with cross-functional teams to deliver high-quality results. Skilled in HTML, CSS, JavaScript, React, and Next.js.
 
 # About Me
