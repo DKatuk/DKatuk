@@ -4,17 +4,16 @@
 # Summary
 Passionate Front-End Developer with expertise in web development, Search Engine Optimization (SEO), and implementing top-tier security practices. Experienced in collaborating with cross-functional teams to deliver high-quality results. Skilled in HTML, CSS, JavaScript, React, and Next.js.
 
-# About Me
 I am a detail-oriented and solution-driven team player who embarked on a transformative journey by completing an intensive remote Front End Bootcamp. 2 years ago, I discovered my passion for digital world and coding and realized the importance of a brand's website as its face to the world. This led me to pursue a career as a Front-End Developer, where I combine my technical skills with my creative mindset.
 
 # Skills
 - Languages: HTML, CSS, JavaScript
 - Frameworks/Libraries: React, Next.js
+- Databases: SQL, PostgreSQL, MySQL
 - Version Control: Git, GitHub, Bitbucket
 - Agile Scrum: Jira
 - UI Design: Figma
 - SEO Optimization: On Page SEO, Google Analytics, Google Search Console, Sitemap Creation and Integration
-- Security: HTTP-only Cookies, AES encryption
 
 ### Skillset 
 <div>
@@ -33,8 +32,14 @@ I am a detail-oriented and solution-driven team player who embarked on a transfo
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-   <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/> 
+   <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+   <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/> 
   </a>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -60,9 +65,10 @@ I am a detail-oriented and solution-driven team player who embarked on a transfo
 </div>
 
 ## 🌱 **I’m currently learning**: </br>
-- HarvardX - CS50's Introduction to Computer Science - Online (Scholarship recipient)
-- LinuxFoundationX - Introduction to Linux - Online (Scholarship recipient)
-- Docker and Kubernetes: The Complete Guide - Online
+ - Web3 fundamentals
+ - Blockchain technology
+ - Decentralized applications
+ - Motoko
 
 ## 📫 **Connect with me**: 
 <div align:"center">
@@ -79,9 +85,7 @@ I did an internship in a laboratory (in Krakow, Poland) where Corona Virus studi
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dkatuk&show_icons=true&count_private=true&theme=dark&hide_border=true" />
 </a> 
 <a href="#"><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=dkatuk&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"></a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkatuk&layout=compact&,html&langs_count=3&theme=dark"/>
-</a>
+
 
 <!--
 **DKatuk/DKatuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
