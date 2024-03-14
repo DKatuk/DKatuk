@@ -4,7 +4,7 @@
 # Summary
 Passionate Front-End Developer with expertise in web development, Search Engine Optimization (SEO), and implementing top-tier security practices. Experienced in collaborating with cross-functional teams to deliver high-quality results. Skilled in HTML, CSS, JavaScript, React, and Next.js.
 
-I am a detail-oriented and solution-driven team player who embarked on a transformative journey by completing an intensive remote Front End Bootcamp. 2 years ago, I discovered my passion for digital world and coding and realized the importance of a brand's website as its face to the world. This led me to pursue a career as a Front-End Developer, where I combine my technical skills with my creative mindset.
+I am a detail-oriented and solution-driven team player who embarked on a transformative journey by completing an intensive remote Front End Bootcamp. 3 years ago, I discovered my passion for digital world and coding and realized the importance of a brand's website as its face to the world. This led me to pursue a career as a Front-End Developer, where I combine my technical skills with my creative mindset.
 
 # Skills
 - Languages: HTML, CSS, JavaScript
@@ -36,16 +36,16 @@ I am a detail-oriented and solution-driven team player who embarked on a transfo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
    <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" width="100" height="40"/> 
   </a>
    <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="100" height="40"/> 
   </a>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" alt="react" width="60" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" alt="react" width="80" height="40"/>
   </a>
    <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
